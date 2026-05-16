@@ -2,6 +2,9 @@
 
 This project builds a football player performance dashboard using Python, pandas, Plotly, seaborn, and KMeans clustering.
 
+## To access:
+http://192.168.1.133:8501/
+
 ## What it does
 
 - Loads player stats from a CSV file
