@@ -2,8 +2,8 @@
 
 This project builds a football player performance dashboard using Python, pandas, Plotly, seaborn, and KMeans clustering.
 
-## To access:
-http://192.168.1.133:8501/
+## Hosted Page
+https://fifa-player-dashboard.streamlit.app/
 
 ## What it does
 
@@ -29,7 +29,7 @@ player-performance-dashboard/
     └── transfermarkt_scraper_template.py
 ```
 
-## How to run it
+## How to run it on your local device
 
 ### 1. Open the folder in VS Code
 
