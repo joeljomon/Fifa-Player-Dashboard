@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+ENV/
+.env/
+
+# Streamlit
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
